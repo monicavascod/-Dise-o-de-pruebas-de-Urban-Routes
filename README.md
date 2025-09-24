@@ -1,4 +1,4 @@
-# 🚖 Proyecto 2 – Diseño de pruebas de Urban Routes  
+#  Diseño de pruebas de Urban Routes  
 
 ## 📌 Descripción  
 En este proyecto trabajé sobre la funcionalidad de **compartir automóvil** de la aplicación Urban Routes.  
